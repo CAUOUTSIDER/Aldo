@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",TVRI (D*)
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.ibb.co.com/DbbVQks/IMG-20240714-WA0016-picsay.png" group-title="lokal",TVRI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",TVRI World
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/B6tMmfb/IMG-20240714-WA0017-picsay.png" group-title="lokal",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SKDGG15/IMG-20240713-WA0189.jpg" group-title="lokal",MOJI
 http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/298550.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SKDGG15/IMG-20240713-WA0189.jpg" group-title="lokal", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg",Magna Channel (D*)
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/gTscf1H/IMG-20240714-WA0018-picsay.png",Magna Channel (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg",Magna Channel
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/DbbVQks/IMG-20240714-WA0016-picsay.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",ANTV (transcorp)
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/B6tMmfb/IMG-20240714-WA0017-picsay.png" group-title="lokal",ANTV (transcorp)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",ANTV
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/gTscf1H/IMG-20240714-WA0018-picsay.png" group-title="lokal",ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg", Indosiar
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/DbbVQks/IMG-20240714-WA0016-picsay.png", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",TRANS 7 (D)
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co.com/gTscf1H/IMG-20240714-WA0018-picsay.png" group-title="lokal",TRANS 7 (D)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",TransTV HD (Transcorp)
+#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/DbbVQks/IMG-20240714-WA0016-picsay.png" group-title="lokal",TransTV HD (Transcorp)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BgxrVRk/IMG-20240713-WA0193.jpg" group-title="lokal",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B6tMmfb/IMG-20240714-WA0017-picsay.png" group-title="lokal",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="Logo N/A" group-title="lokal",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
