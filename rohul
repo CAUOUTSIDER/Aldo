@@ -6,6 +6,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SKDGG15/IMG-20240713-WA0189.jpg" group-title="lokal",MOJI
 http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/298550.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo1/main/moji.png" group-title="lokal",MOJI A
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo1/main/moji.png" group-title="lokal",MOJI B
+https://corsurl.tvonlineindonesia.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SKDGG15/IMG-20240713-WA0189.jpg" group-title="lokal", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
